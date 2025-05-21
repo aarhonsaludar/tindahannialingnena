@@ -49,7 +49,7 @@ Tindahan Ni Aling Nena is a comprehensive restaurant management application buil
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/tindahan.git
+git clone https://github.com/aarhonsaludar/tindahannialingnena
 ```
 
 2. Navigate to the project directory:
